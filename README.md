@@ -1,6 +1,6 @@
 # Pokemon Go Theme Taipei Map
 **Author:** Angel Lin
-**Date:** 2020/05/10
+<br>**Date:** 2020/05/10
 
 ![taipei map](img/mapTile.JPG)
 
