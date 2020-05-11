@@ -6,7 +6,7 @@
 
 The theme of this map tile is inspired by the map of Pokemon Go:
 
-![pokemon go map](img/pokemon-go.PNG)
+![pokemon go map](img/pokemon-go.png)
 
 I chose the `basic-chilled` template from Mapbox, and modified the style by changing the color of place lables, airports, and schools. The yellow areas on the map are airports, and the pink areas are where the schools are located at.
 
